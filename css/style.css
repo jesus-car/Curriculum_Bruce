@@ -1,12 +1,22 @@
+
+div{
+    background-color: #E6E6E6;
+    text-align: center;
+}
 h1,h2 {
     color: #005677;
     background:#C4C4C4;    
 }
 
 h1 {
-    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 18px;
 }
-
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 8px;
+    padding-left: 15px;
+}
 .frontal {
     text-align: center;
     background-color:#E6E6E6;
@@ -24,4 +34,40 @@ h3{
     text-align: center;
     background:#005677 ;
     color: white;
+}
+ul span{
+    font-style: italic;
+    font-weight: bold;
+}
+.negrita{
+    font-weight: bold;
+}
+
+.lista{
+    list-style: none;
+    margin: 20px;
+    
+}
+.alineado{
+    margin-left: 80px;
+}
+dt {
+    padding-top: 5px;
+}
+dd {
+    padding-bottom: 5px;
+}
+footer {
+    display: block;
+    background:#005677 ;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+.tamaño{
+    width: 20px;
+    height: 20px;
 }
