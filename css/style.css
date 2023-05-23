@@ -1,7 +1,6 @@
 h1,h2 {
     color: #005677;
-    background:#C4C4C4;
-    ;
+    background:#C4C4C4;    
 }
 
 h1 {
@@ -12,4 +11,17 @@ h1 {
     text-align: center;
     background-color:#E6E6E6;
     ;
+}
+
+.social{
+    background:005677 ;
+    text-align:center;
+    width: 25px;
+    height: 20px;
+}
+
+h3{
+    text-align: center;
+    background:#005677 ;
+    color: white;
 }
